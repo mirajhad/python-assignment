@@ -1,0 +1,40 @@
+1. values - 'hello', 6,-87.8
+expression- *, -, +,/
+
+2. string is nonmutable, variable is any data which can be store to perform some kind of action
+
+3.int, str, float
+
+4. expression is made operands and operators, it is used to produce some value.
+
+5. expression which we assign a value.
+
+6. 22
+
+7. spamspamspam
+ spam*3 will give error
+
+8. use cannot used number as an variable
+
+9. a. def integrAcc(int a):
+      return a
+
+    b. def floaAcct(float a):
+      return a
+
+    c def strAcc(string a):
+      return a
+
+10. can cannot concate using single quote
+   to fix this we can concate number as a string like this
+   
+     " 'I have eaten'; + 99 +  'burritos'"
+
+
+
+
+
+
+
+
+
