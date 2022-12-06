@@ -1,0 +1,82 @@
+1. true and false, 
+my_bool = True
+my_bool = False
+
+2. and , or, not
+
+3. >>> not True
+False
+>>> not False
+True
+>>> True and True
+True
+>>> False and True
+False
+>>> False and False
+False
+>>> True or True
+True
+>>> False or True
+True
+>>> False or False
+False
+
+4. (5 >4 ) and (3 == 5) = False
+not (5 > 4) = False
+(5 > 4) or (3 == 5) = True
+not ((5 > 4) or (3 == 5)) = False
+(True and True) and (True == False) = False
+(not False) or (not True) = True
+
+5. 	Equal, Not equal, Greater than, 	Less than, Greater than or equal to, Less than or equal to
+
+6. Equal to (==) check the condition if its match it return true and assignment operator (=)
+assign the value to a variable
+
+7.  1st block
+if spam == 10:
+print('eggs')
+
+2nd block
+if spam > 5:
+print('bacon')
+
+3rd block
+else:
+print('ham')
+print('spam')
+print('spam')
+
+8. if spam == 1:
+print(Hello)
+if spam ==2 
+print('Howdy')
+else:
+print('Greetings!')
+
+9. ctrl + c
+
+10. if we use break then it will break the loop, and if we use continue then it will jump to current condition loop and continue the loop
+
+11. range(10)        # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] 0 through 10, excluding 10
+range(0, 10)     # [1, 2, 3, 4, 5, 6, 7, 8, 9] 0 through 10, excluding 10
+range(0, 10, 1) # [1, 2,3, 4, 5, 6, 7,8, 9] 0 through 10, counting by 1s
+
+12. using while loop
+  i = 1
+while(i<=10):
+    print(i)
+    i += 1
+
+using for loop
+for i in range(1, 11):
+    print(i)
+
+13. import becon from spam
+becon()
+
+
+
+
+
+
