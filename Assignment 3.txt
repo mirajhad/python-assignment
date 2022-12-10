@@ -1,0 +1,29 @@
+1. Function is the most important part of programming, with function we can do anything, whenever there is repeated logic is there we can pass the argument and and based upon that it will return the data.
+
+2.A function is run when its called.
+
+3. By using def key a function is created.
+
+4. A function is simply we defining the function, and a function call is where we declaring the function and passing arguments to the function.
+
+5.there is only one global and local scope is there
+
+6. A local variable retains its value until the next time the function is called
+A local variable becomes undefined after the function call completes
+The local variable can be used outside the function any time after the function call completes.
+
+7. return value simply return the data after funtion is completed
+
+8. If no return statement appears in a function definition, control automatically returns to the calling function after the last statement of the called function is executed. In this case, the return value of the called function is undefined.
+
+9. By using global keyword we can make function variable refer to the global variable
+
+10. None is a data type of its own (NoneType) and only None can be None
+
+11. That import statement imports a module named areallyourpetsnamederic . (This isn't a real Python module, by the way.)
+
+12. we can call spam.becon()
+
+13. By using try catch we can avoid crash of the program
+
+14. try will check the condtion and if its fails it will be handle by the catch block
